@@ -1,2 +1,2 @@
-# Multitask-Learning-Tutorial
+# Multitask-Learning-Tutorials
 Repo which contains MTL codes
